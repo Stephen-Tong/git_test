@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello Git");
         System.out.println("hello GitHub");
         System.out.println("hello PornHub");
+        System.out.println("hello Wd/Hub");
     }
 }
