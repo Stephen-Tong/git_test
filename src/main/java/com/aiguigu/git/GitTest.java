@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("hello PornHub");
         System.out.println("hello Wd/Hub");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
